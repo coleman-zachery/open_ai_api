@@ -26,7 +26,7 @@ OPENAI_API_KEY='aa-aAa0aAa0aAa0aAa0aAa0aAa'
 
 2c.   click "Done"
 
-![4](https://github.com/coleman-zachery/open_ai_api/assets/42438576/8a57c51c-d38d-40f3-8ad0-a556744b2d0c)
+![2](https://github.com/coleman-zachery/open_ai_api/assets/42438576/1a096c81-4029-4469-9d0b-f02401fc5362)
 
 ---
 
