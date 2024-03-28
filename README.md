@@ -32,7 +32,7 @@ OPENAI_API_KEY='aa-aAa0aAa0aAa0aAa0aAa0aAa'
 
 3a.   when you're ready to fund your account, click "Settings" > "Billing" > "Payment Methods" > "Add Payment Method"
 
-![5](https://github.com/coleman-zachery/open_ai_api/assets/42438576/c22862df-1101-4744-af2b-5a166ebb198a)
+![3](https://github.com/coleman-zachery/open_ai_api/assets/42438576/f8ec2f73-5a51-4e1b-a0c8-df318df5c0be)
 
 ---
 
